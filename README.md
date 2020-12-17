@@ -14,4 +14,6 @@ Needs Python 2.7 to run because of the module "pygame" that is used as the scree
 Modules:  pygame, openGL (pyOpenGL), numpy
 Files: TrackingV5, mirrorInformationV4 (All need to be in the same folder).
 
+heliostatVisualization.py is the main file that has the visualization, TrackingV5 is used to output the sun location
+
 Press "p" to see a simulation of the heliostat moving throughout the day, tracking the sun and moving such that the light hits the power tower.
