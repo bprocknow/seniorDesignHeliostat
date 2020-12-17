@@ -12,5 +12,6 @@ The visualization tool is used to optimize different parts of the heliostat syst
 Usage:
 Needs Python 2.7 to run because of the module "pygame" that is used as the screen to display the heliostat. 
 Modules:  pygame, openGL (pyOpenGL), numpy
+Files: TrackingV5, mirrorInformationV4 (All need to be in the same folder).
 
 Press "p" to see a simulation of the heliostat moving throughout the day, tracking the sun and moving such that the light hits the power tower.
